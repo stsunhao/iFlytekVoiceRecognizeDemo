@@ -1,0 +1,146 @@
+/* 
+  Localizable.strings
+  MSCDemo
+
+  Created by Jimmy on 2017/9/11.
+
+*/
+
+
+"K_LangCant"                    =   "粤语";
+
+"K_LangChin"                    =   "普通话";
+
+"K_LangEng"                     =   "英语";
+
+"K_LangSzec"                    =   "四川话";
+
+"K_LangCHZN"                    =   "汉语";
+
+"K_ISE_CateSent"                =   "句子";
+
+"K_ISE_Lang"                    =   "评测语种";
+
+"K_ISE_Cate"                    =   "评测题型";
+
+"K_ISE_RstLv"                   =   "结果等级";
+
+"K_BOS"                         =   "前端点超时";
+
+"K_EOS"                         =   "后端点超时";
+
+"K_ISE_Timeout"                 =   "评测超时";
+
+"K_AudSource"                   =   "音频来源";
+
+"K_MIC"                         =   "麦克风";
+
+"K_Stream"                      =   "音频流";
+
+"K_ISE_CateSent"                =   "句子";
+
+"K_ISE_CateWord"                =   "词语";
+
+"K_ISE_CateSyll"                =   "单字";
+
+
+
+
+"B_Back"                        =   "返回";
+
+"B_Ok"                          =   "好的";
+
+"B_Cancel"                      =   "取消";
+
+
+
+
+"T_Alter"                       =   "温馨提示";
+
+"T_RecNow"                      =   "正在录音";
+
+"T_RecVol"                      =   "音量";
+
+"T_RecStop"                     =   "停止录音";
+
+"T_ISR_Cancel"                  =   "识别取消";
+
+"T_ISR_NoRlt"                   =   "无识别结果";
+
+"T_ISR_Succ"                    =   "识别成功";
+
+"T_ISR_Uping"                   =   "正在上传...";
+
+"T_ISR_UpSucc"                  =   "上传成功";
+
+"T_ISR_UpFail"                  =   "上传失败，错误码";
+
+"T_NLP_Cancel"                  =   "语义理解取消";
+
+"T_ASR_NoMat"                   =   "无匹配结果";
+
+"T_TTS_InvTxt"                  =   "无效的文本信息";
+
+"T_TTS_Buff"                    =   "正在缓冲...";
+
+"T_TTS_Play"                    =   "开始播放";
+
+"T_TTS_Pause"                   =   "播放暂停";
+
+"T_TTS_Cancel"                  =   "合成已取消";
+
+"T_TTS_End"                     =   "合成结束";
+
+"T_ISE_SetTil"                  =   "评测参数设置";
+
+"T_ISE_Unknown"                 =   "未知错误";
+
+"T_ISE_End"                     =   "评测结束";
+
+
+
+
+"M_Alter"                       =   "本Demo暂未集成该功能，如需使用请前往http://www.xfyun.cn下载，谢谢!";
+
+"M_ISR_Fail"                    =   "启动识别服务失败，请稍后重试!";
+
+"M_ISR_Stream_Fail"             =   "请设置为无界面识别模式!";
+
+"M_ASR_UpGram"                  =   "请先上传语法!";
+
+"M_TTS_Alter"                   =   "本Demo暂未集成本地合成功能，如需使用请前往http://www.xfyun.cn下载，谢谢!";
+
+"M_TTS_URIPlay"                 =   "URI合成完毕，即将开始播放";
+
+"M_ISE_NoEmpty"                 =   "取值不能为空!";
+
+"M_ISE_Range"                   =   "取值范围为：";
+
+"M_ISE_Msg"                     =   "你好像没有说话哦";
+
+"M_ISE_Noti1"                   =   "请点击“开始评测”按钮";
+
+"M_ISE_Noti2"                   =   "请朗读以上内容";
+
+"M_ISE_Noti3"                   =   "停止评测，结果等待中...";
+
+
+
+
+// TTS Speaker
+"xiaoyan"                       =   "小燕";
+"xiaoyu"                        =   "小宇";
+"xiaoyan2"                      =   "小研";
+"xiaoqi"                        =   "小琪";
+"xiaofeng"                      =   "小峰";
+"xiaoxin"                       =   "小新";
+"xiaokun"                       =   "小坤";
+"English"                       =   "英语";
+"Vietnamese"                    =   "越南语";
+"Hindi"                         =   "印地语";
+"Spanish"                       =   "西班牙语";
+"Russian"                       =   "俄语";
+"French"                        =   "法语";
+
+
+

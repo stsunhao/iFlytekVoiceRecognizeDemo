@@ -1,0 +1,146 @@
+/* 
+  Localizable.strings
+  MSCDemo
+
+  Created by Jimmy on 2017/9/11.
+
+*/
+
+
+"K_LangCant"                    =   "Cantonese";
+
+"K_LangChin"                    =   "Mandarin";
+
+"K_LangEng"                     =   "English";
+
+"K_LangSzec"                    =   "Szechuan";
+
+"K_LangCHZN"                    =   "Chinese";
+
+"K_ISE_CateSent"                =   "Sentence";
+
+"K_ISE_Lang"                    =   "Language";
+
+"K_ISE_Cate"                    =   "Category";
+
+"K_ISE_RstLv"                   =   "Result Level";
+
+"K_BOS"                         =   "BOS";
+
+"K_EOS"                         =   "EOS";
+
+"K_ISE_Timeout"                 =   "Timeout";
+
+"K_AudSource"                   =   "Audio Source";
+
+"K_MIC"                         =   "Microphone";
+
+"K_Stream"                      =   "Audio Stream";
+
+"K_ISE_CateSent"                =   "Sentence";
+
+"K_ISE_CateWord"                =   "Word";
+
+"K_ISE_CateSyll"                =   "Syllable";
+
+
+
+
+"B_Back"                        =   "Back";
+
+"B_Ok"                          =   "OK";
+
+"B_Cancel"                      =   "Cancel";
+
+
+
+
+"T_Alter"                       =   "kindly Reminder";
+
+"T_RecNow"                      =   "Recording";
+
+"T_RecVol"                      =   "volume";
+
+"T_RecStop"                     =   "Recording Finished";
+
+"T_ISR_Cancel"                  =   "Recognition Cancelled";
+
+"T_ISR_NoRlt"                   =   "No Result";
+
+"T_ISR_Succ"                    =   "Recognition Completion";
+
+"T_ISR_Uping"                   =   "Uploading...";
+
+"T_ISR_UpSucc"                  =   "Uploading Success";
+
+"T_ISR_UpFail"                  =   "Uploading Failed, Errorcode";
+
+"T_NLP_Cancel"                  =   "NLP Cancelled";
+
+"T_ASR_NoMat"                   =   "No Matching Result";
+
+"T_TTS_InvTxt"                  =   "Invalid Text";
+
+"T_TTS_Buff"                    =   "Buffering...";
+
+"T_TTS_Play"                    =   "Playing";
+
+"T_TTS_Pause"                   =   "Paused";
+
+"T_TTS_Cancel"                  =   "TTS Canceled";
+
+"T_TTS_End"                     =   "TTS Completion";
+
+"T_ISE_SetTil"                  =   "ISE Setting";
+
+"T_ISE_Unknown"                 =   "Unknown Error";
+
+"T_ISE_End"                     =   "ISE Completion";
+
+
+
+
+"M_Alter"                       =   "The Demo has not yet integrated this business. Please go to http://www.xfyun.cn to download it as requested. Thank you!";
+
+"M_ISR_Fail"                    =   "Starting recognition failed. Please try again later!";
+
+"M_ISR_Stream_Fail"             =   "Please set recognition control without view!";
+
+"M_ASR_UpGram"                  =   "Please upload grammar firstly!";
+
+"M_TTS_Alter"                   =   "The Demo has not yet integrated local speech synthesis. Please go to http://www.xfyun.cn to download it as requested. Thank you!";
+
+"M_TTS_URIPlay"                 =   "URI TTS has completed and will play the audio file";
+
+"M_ISE_NoEmpty"                 =   "Value must not be empty!";
+
+"M_ISE_Range"                   =   "Range:";
+
+"M_ISE_Msg"                     =   "It's too quiet!";
+
+"M_ISE_Noti1"                   =   "Please click on the button of \"Start\"";
+
+"M_ISE_Noti2"                   =   "Please read aloud above";
+
+"M_ISE_Noti3"                   =   "The recording is finished and the result is waiting...";
+
+
+
+
+// TTS Speaker
+"xiaoyan"                       =   "xiaoyan";
+"xiaoyu"                        =   "xiaoyu";
+"xiaoyan2"                      =   "vixy";
+"xiaoqi"                        =   "vixq";
+"xiaofeng"                      =   "vixf";
+"xiaoxin"                       =   "vixx";
+"xiaokun"                       =   "vixk";
+"English"                       =   "English";
+"Vietnamese"                    =   "Vietnamese";
+"Hindi"                         =   "Hindi";
+"Spanish"                       =   "Spanish";
+"Russian"                       =   "Russian";
+"French"                        =   "French";
+
+
+
